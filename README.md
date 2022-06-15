@@ -1,4 +1,4 @@
-# Python
+# Jogo em Python
 Jogo de Par ou Impar
 
 o programa ira solicitar que voce digite um numero, o mesmo ira perguntar se voce quer par ou impar.
